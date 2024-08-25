@@ -68,7 +68,7 @@ These recommendations, if implemented, could help optimize revenue and customer 
 ## Conclusion
 The data analysis highlights key trends in train ticket transactions across the United Kingdom, providing insights into revenue distribution, payment preferences, and railcard usage. A total of 31,653 transactions generated £742,000 in revenue, with over 70% of this coming from standard-class ticket sales (£592,522). Payment methods indicate that credit cards are the most popular, accounting for 60.46% of transactions, followed by contactless payments at 34.23%, and debit cards at 5.32%. In terms of railcard usage, the majority of transactions involved no railcard (20,918), suggesting low uptake among specific categories like adult, senior, and disabled railcards, which together accounted for less than half of the transactions. The findings from this analysis also highlights the dominance of standard-class tickets and credit card payments, along with a significant opportunity to enhance railcard adoption among target groups.
  
- 
+![](https://github.com/KingsleyMichael50/United-Kingdom-Train-Rides/blob/main/UK%20Train%20Rides%20(Kingsley)1_page-0001.jpg)
  
  
  
